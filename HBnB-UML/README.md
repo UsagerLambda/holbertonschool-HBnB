@@ -39,7 +39,7 @@ The project is built using a **layered architecture**:
 
 The **Facade Pattern** simplifies interactions between the Presentation and Business Logic layers.
 
-![View the Layered Architecture](HBnB-UML/DiagramsPictures/LayerDiagram.png)
+![View the Layered Architecture](holbertonschool-HBnB/HBnB-UML/DiagramsPictures/LayerDiagram.png)
 
 ### Class Diagrams
 
@@ -51,7 +51,7 @@ The main entities in the system are:
 
 Each class includes attributes like `id`, `created_at`, and CRUD operations.
 
-![View the Class Diagram](HBnB-UML/DiagramsPictures/ClassDiagram.png)
+![View the Class Diagram](holbertonschool-HBnB/HBnB-UML/DiagramsPictures/ClassDiagram.png)
 
 ### Sequence Diagrams
 
@@ -65,7 +65,7 @@ The application follows a typical web-based architecture:
   - **409**: Data conflict.
   - **400**: Invalid request.
 
-![View the Sequence Diagram](HBnB-UML/DiagramsPictures/SequenceDiagrams.png)
+![View the Sequence Diagram](holbertonschool-HBnB/HBnB-UML/DiagramsPictures/SequenceDiagrams.png)
 
 ---
 
